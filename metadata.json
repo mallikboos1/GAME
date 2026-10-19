@@ -1,0 +1,6 @@
+{
+  "name": "Jungle Escape 3D - Endless Runner",
+  "description": "High-octane 3D endless runner set in ancient jungle ruins. Run, dodge obstacles, leap across chasms, slide under stone traps, collect ancient coins, and upgrade power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
